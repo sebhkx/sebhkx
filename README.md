@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebhkx
-- 👀 I’m interested in full time career
-- 🌱 I’m always learning Pandas, Numpy, Matplotlib, Chart.js, D3, React, Flutter, MEAN, JAMstack, NoSQL, GraphQL, Reinforcement learning etc. and I still don't know what I'm doing
+- 👀 Fine, I'll write my own apps and automation
+- 🌱 From Pandas, Numpy, Matplotlib, Chart.js, D3, React, MEAN, JAMstack, NoSQL, GraphQL, Reinforcement learning etc. I wanna do it all
 - 💞️ I’m looking to collaborate on code review, testing, mentoring and professional development
 - 📫 Reach me linkedin.com/in/sebhkx/
 
