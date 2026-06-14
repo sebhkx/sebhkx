@@ -4,3 +4,7 @@
 - 💞️ I’m looking to collaborate on code review, testing, mentoring and professional development
 - 📫 Reach me linkedin.com/in/sebhkx/
 
+- Security by Design
+- Test driven development
+- Continuous Integration & Deployment
+
