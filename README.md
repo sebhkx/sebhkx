@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Seb
-- 👀 I enjoy writing my own macro services and automation
-- 🌱 I adide by the development principles of Security by Design, Test driven development and Continuous Integration & Deployment
-- 💞️ Looking to collaborate on code review, testing, mentoring and professional development
+- 👋 Hi, I’m Sebastian! I enjoy writing my own macro services and automation
+- 🌱 I abide by the development principles of Security by Design, Test driven development and Continuous Integration & Deployment
+- 👀 Looking to collaborate on code review, testing, mentoring and professional development
 - 📫 Reach me linkedin.com/in/sebhkx/
